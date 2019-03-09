@@ -549,5 +549,5 @@ The setup depends on your server stack. A common option is to use
 [sbt-gzip](https://github.com/sbt/sbt-gzip)
 if you have a Play or Akka-http server.
 
-This completes the Scala.js tutorial. Refer to our [documentation page](../../doc/index.html) for deeper insights into various
+This completes the Scala.js tutorial. Refer to our [documentation page](../../index.html) for deeper insights into various
 aspects of Scala.js.
